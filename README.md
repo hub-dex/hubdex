@@ -26,7 +26,7 @@ To join any server, you **must** be connected to the Tailscale network.
 ---
 
 ### ⚙️ Satisfactory Dedicated Server
-- **Game Port**: `100.117.199.89:7777` (UDP)
+- **Game Port**: `100.117.199.89:7782` (UDP)
 - **Beacon Port**: `100.117.199.89:8888` (TCP)
 - **Steam App ID**: `1690800`
 
