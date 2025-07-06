@@ -62,7 +62,7 @@ To join any server, you **must** be connected to the Tailscale network.
 
 ## 📢 Discord Integration
 
-All updates and support are handled via our [Discord Server](https://discord.gg/your-server-link).
+All updates and support are handled via our [Discord Server](https://discord.gg/TfQUXnus).
 
 - `#game-servers`: Server list and connection info
 - `#satisfactory`, `#v-rising`, `#conan-exiles`: Game-specific chats and updates
